@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\bin\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.genruntimeconfig.cache
